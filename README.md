@@ -22,7 +22,11 @@
 [namerim]: http://github.com/namerim "namerim"
 [vskyv1101]: http://github.com/vskyv1101 "vskyv1101"
 [woojin0534]: http://github.com/woojin0534 "woojin0534"
+<br><br>
 
-<br/><br/>
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=opsos1&show_icons=true&hide=issues,stars)](https://github.com/rdyjun/github-readme-stats)
+
+<br/>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=FF7F09&height=140&section=footer&fontSize=100)
 </div>
