@@ -12,7 +12,7 @@
 
 [:triangular_flag_on_post:rdyjun - 주성준][rdyjun]<br>
 [woojin0534 - 김우진][woojin0534]<br>
-[namerim - 남예림][namerim]<br>
+[namerim - 김예림][namerim]<br>
 [vskyv1101 - 김하늘][vskyv1101]<br>
 [eunhwan0306 - 주은환][eunhwan0306]
 
